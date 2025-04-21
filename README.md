@@ -52,6 +52,8 @@ obesity-in-latin-america/
 2. **Unsupervised Learning**: K-means clustering with PCA to identify natural groupings
 3. **Supervised Learning**: Decision tree classification to identify key predictors
 
+**Technologies:** Python 3.12, scikit-learn, pandas, matplotlib, seaborn
+
 <figure align="center">
   <img 
     src="docs/kmeans_pca_reduced.png" 
@@ -60,8 +62,6 @@ obesity-in-latin-america/
   />
   <figcaption><em>Figure 1. Four obesity‑risk clusters identified</em></figcaption>
 </figure><br/>
-
-**Technologies:** Python 3.12, scikit-learn, pandas, matplotlib, seaborn
 
 ## Results
 Key findings:
