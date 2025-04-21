@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 - The dataset is included in the data/ directory
 
 ## Data
-Dataset from [UCI Machine Learning Repository] (https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) with 2111 observations across 17 variables from participants in Mexico, Peru, and Colombia. Variables include demographic information, dietary habits, physical activity levels, and technology use. The target variable categorizes individuals by BMI.
+Dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) with 2111 observations across 17 variables from participants in Mexico, Peru, and Colombia. Variables include demographic information, dietary habits, physical activity levels, and technology use. The target variable categorizes individuals by BMI.
 
 ## Code Structure
 ```
