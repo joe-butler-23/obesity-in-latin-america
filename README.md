@@ -10,8 +10,6 @@ Analysis of factors contributing to obesity in Latin American countries using mu
 
 *Completed as part of MSc in Applied Statistics, University of Strathclyde.*
 
-![PCA](docs/kmeans_pca_reduced.png)
-
 ## Installation and Setup
 
 ```bash
@@ -53,6 +51,11 @@ obesity-in-latin-america/
 1. **Exploratory Data Analysis**: Correlation analysis and visualization of relationships between variables and obesity
 2. **Unsupervised Learning**: K-means clustering with PCA to identify natural groupings
 3. **Supervised Learning**: Decision tree classification to identify key predictors
+
+<p align="center">
+  <img src="docs/kmeans_pca_reduced.png)" alt="Cluster PCA Plot" width="600"/>
+</p>
+*Figure: Four obesity‑risk clusters identified via K‑Means on PCA‑reduced data (first two principal components).*
 
 Technologies: Python 3.12, scikit-learn, pandas, matplotlib, seaborn
 
