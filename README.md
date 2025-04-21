@@ -14,7 +14,7 @@ Analysis of factors contributing to obesity in Latin American countries using mu
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/obesity-in-latin-america.git
+git clone https://github.com/joe-butler-23/obesity-in-latin-america.git
 cd obesity-in-latin-america
 
 # Create and activate virtual environment (optional)
