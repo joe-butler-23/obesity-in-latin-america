@@ -60,8 +60,7 @@ obesity-in-latin-america/
   />
   <figcaption><em>Figure 1. Four obesity‑risk clusters identified</em></figcaption>
 </figure>
-
-Technologies: Python 3.12, scikit-learn, pandas, matplotlib, seaborn
+\n Technologies: Python 3.12, scikit-learn, pandas, matplotlib, seaborn
 
 ## Results
 Key findings:
