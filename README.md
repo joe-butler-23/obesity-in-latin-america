@@ -37,14 +37,16 @@ Dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/datas
 ## Code Structure
 ```
 obesity-in-latin-america/
-├── README.md                # Project documentation
-├── data/                    # Data file
-├── docs/                    # Written report
-├── notebooks/               # Jupyter notebooks for analysis
+├── README.md                       # Project documentation
+├── data/
+│   └── ObesityDataSet_raw.csv      # Data set
+├── docs/                          
+│   └── CS818_assessment.pdf        # Written report
+├── notebooks/                      # Jupyter notebooks for analysis
 │   ├── 01_initial_data_exploration.ipynb
 │   ├── 02_multivariate_analysis.ipynb
 │   ├── 03_exploratory_unsupervised.ipynb
-│   ├── 04_supervised_analysis.ipynb
+    └── 04_supervised_analysis.ipynb
 ```
 
 ## Analysis
