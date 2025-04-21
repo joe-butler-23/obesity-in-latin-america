@@ -1,10 +1,16 @@
 # Factors Impacting Obesity Rates in Latin America
-Supervised and unsupervised analysis of the factors that predict obesity rates in Latin America
+_A supervised & unsupervised machine‐learning analysis of UCI obesity data_
+
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Notebook Status](https://img.shields.io/badge/notebooks-passing-brightgreen)
 
 ## Project Overview
 Analysis of factors contributing to obesity in Latin American countries using multivariate statistical techniques. This study combines exploratory data analysis, K-means clustering, and decision trees to identify patterns and predictors of obesity rates. The results show how obesity risk varies across subpopulations defined by both lifestyle and demographic factors. Key findings include the complex interplay between physical activity, technology use, dietary habits, and family history as determinants of obesity risk.
 
 *Completed as part of MSc in Applied Statistics, University of Strathclyde.*
+
+![PCA](docs/kmeans_pca_reduced.png)
 
 ## Installation and Setup
 
@@ -57,9 +63,6 @@ Key findings:
 
 ## Acknowledgements
 University of Strathclyde and UCI Machine Learning Repository
-
-## License
-MIT License
 
 ---
 <!-- Metadata for Jekyll/GitHub Pages -->
